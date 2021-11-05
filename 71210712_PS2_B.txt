@@ -1,0 +1,6 @@
+Dari gelas A mengalir sebanyak 500L air ke gelas B dikarenakan sedotan tepat berada ditengah gelas 
+jadi yang mengalir hanya setengah liter air saja, kemudian pada gelas B terisi menjadi sebanyak
+1200L air, kemudian air yang berada di gelas B mengalir menuju gelas C sebanyak 600L air dan gelas C
+terisi sebanyak 900L air, kemudian air yang mengalir dari gelas C menuju gelas D sebanyak 450L air, 
+dan gelas D terisi sebanyak 550L air. Jadi jika gelas A dituangkan ke gelas D maka gelas D akan menerima 
+air sebanyak 550L.
